@@ -1,4 +1,4 @@
-# 1-077-Hours-Thai-Conversational-Speech-Data-by-Telephone
+# 1077-Hours-Thai-Conversational-Speech-Data-by-Telephone
 
 ## Description
 The 1,077 Hours - Thai Conversational Speech Data involved 1,986 native speakers, developed with proper balance of gender ratio, Speakers would choose a few familiar topics out of the given list and start conversations to ensure dialogues' fluency and naturalness. The recording devices are various mobile phones. The audio format is 8kHz, 8bit, and all the speech data was recorded in quiet indoor environments. All the speech audio was manually transcribed with text content, the start and end time of each effective sentence, and speaker identification.
